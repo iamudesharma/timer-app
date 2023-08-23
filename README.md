@@ -6,7 +6,8 @@
 
 <details>
 <summary>See ScreenShots</summary>
-<img src="https://raw.githubusercontent.com/iamudesharma/flutter-weather/main/screenshot/Screenshot%202023-08-23%20at%2010.21.02%20AM.png" alt="" width=300></img>
+<img src="https://raw.githubusercontent.com/iamudesharma/timer-app/main/screenshots/Screenshot%202023-08-23%20at%2010.41.02%20AM.png" alt="" width=300></img>
+<img src="https://raw.githubusercontent.com/iamudesharma/timer-app/main/screenshots/Screenshot%202023-08-23%20at%2010.41.28%20AM.png" alt="" width=300></img>
 
 </details>
 
@@ -18,7 +19,7 @@ Prerequisite: https://flutter.dev/docs/get-started/install
 
 2. Clone the repo.
    ```sh
-    git clone https://github.com//flutter-weather
+    git clone https://github.com/iamudesharma/timer-app.git
    ```
 3. Install packages.
 
